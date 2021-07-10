@@ -1,4 +1,3 @@
-# MERN Stack Boilerplate
 
 ## Setup
 
